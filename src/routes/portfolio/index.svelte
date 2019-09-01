@@ -58,10 +58,10 @@
 </style>
 
 <svelte:head>
-  <title>Blog</title>
+  <title>Portfolio</title>
 </svelte:head>
 
-<h1 class="title">Coming Soon!</h1>
+<h1 class="title">Portfolio Coming Soon!</h1>
 
 <!-- <ul> -->
 <!-- {#each projects as project} -->

@@ -23,7 +23,7 @@
   <title>Blog</title>
 </svelte:head>
 
-<h1 class="title">Coming Soon!</h1>
+<h1 class="title">Blog Coming Soon!</h1>
 
 <!--
 <ul>
